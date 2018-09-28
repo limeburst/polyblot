@@ -1,0 +1,9 @@
+[package]
+name = "verbose-engine"
+version = "0.1.0"
+authors = ["Jihyeok Seo <ji@hyeok.org>"]
+
+[dependencies]
+actix-web = "0.7"
+accept-language = "1.2"
+fluent-locale = "0.4"
