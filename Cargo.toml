@@ -7,3 +7,4 @@ authors = ["Jihyeok Seo <ji@hyeok.org>"]
 actix-web = "0.7"
 accept-language = "1.2"
 fluent-locale = "0.4"
+listenfd = "0.3"
